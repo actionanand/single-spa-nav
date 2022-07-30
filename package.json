@@ -1,5 +1,6 @@
 {
   "name": "@actionanand/single-spa-nav",
+  "homepage": "http://actionanand.github.io/single-spa-nav",
   "scripts": {
     "start": "webpack serve --port 20221",
     "start:standalone": "webpack serve --env standalone",
