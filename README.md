@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Overview
 
-This repo is used in conjunction with Seven other repos listed below. Together they make up an application composed of microfrontends. Each app can be updated and deployed independently from the others.
+This repo is used in conjunction with eight other repos listed below. Together they make up an application composed of microfrontends. Each app can be updated and deployed independently from the others.
 
 - [**Root Config**](https://github.com/actionanand/single-spa-demo-root-config)
 - [**Angular App**](https://github.com/actionanand/single-spa-angular)
@@ -15,6 +15,7 @@ This repo is used in conjunction with Seven other repos listed below. Together t
 - [**Nav Bar App** (This Repo)](https://github.com/actionanand/single-spa-nav)
 - [**Footer App**](https://github.com/actionanand/single-spa-footer)
 - [**404 App**](https://github.com/actionanand/single-spa-404)
+- [**Vanilla JS App** (This Repo)](https://github.com/actionanand/single-spa-vanilla-js)
 
 ## Demo
 
